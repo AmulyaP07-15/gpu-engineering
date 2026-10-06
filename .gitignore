@@ -1,0 +1,13 @@
+# compiled binaries and build artifacts
+*.o
+*.out
+*.ptx
+*.cubin
+*.fatbin
+a.out
+00-device-query/device_query
+# keep source, outputs, notes
+.ipynb_checkpoints/
+.DS_Store
+*.nsys-rep
+*.ncu-rep
